@@ -9,7 +9,7 @@ from dev_api.database.models import Category
 
 log = logging.getLogger(__name__)
 
-ns = api.namespace('blog/categories', description='Classes e métodos responsáveis pelas categorias no blog')
+ns = api.namespace('blog/categorias', description='Classes e métodos responsáveis pelas categorias no blog')
 
 
 @ns.route('/')

@@ -64,7 +64,7 @@ class PostItem(Resource):
     @api.response(204, 'Artigo excluído com sucesso.')
     def delete(self, id):
         """
-        Deleta ym artigo
+        Deleta um artigo
         """
         delete_post(id)
         return None, 204
