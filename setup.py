@@ -7,7 +7,7 @@ setup(
     url='',
 
     classifiers=[
-        'Programming Language :: Python :: 3.10'
+        'Programming Language :: Python :: 3.7.15'
     ],
 
     keywords='rest restful api flask swagger openapi flask-restplus',
