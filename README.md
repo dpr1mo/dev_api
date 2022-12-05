@@ -13,4 +13,4 @@ Projeto REST API com Flask
 - Testes de Software
 - Incluir também um dos seguintes requisitos: uso e fornecimento de API, análises de dados e IoT.
 
-[Esta API foi criada para ser consumida pelo projeto Blog do Frontend](https://github.com/DanCamargo176/projeto-integrador-3)
+[Esta API foi criada para ser consumida pelo projeto Blog do Frontend](https://github.com/dpr1mo/projeto-integrador3)
